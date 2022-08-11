@@ -36,7 +36,6 @@
         "facade/ignition-contracts": "^1.0",
         "guzzlehttp/psr7": ">=1.5",
         "illuminate/broadcasting": "^6.3|^7.0|^8",
-        "illuminate/console": "^6.3|^7.0|^8",
         "illuminate/http": "^6.3|^7.0|^8",
         "illuminate/queue": "^6.3|^7.0|^8",
         "illuminate/routing": "^6.3|^7.0|^8",
